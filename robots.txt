@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /build/
+Disallow: /scripts/
+
+User-agent: Mediapartners-Google
+Allow: /
+
+Sitemap: https://heartconnect.com/sitemap.xml

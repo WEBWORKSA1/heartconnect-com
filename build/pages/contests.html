@@ -1,0 +1,67 @@
+<!--
+title: Contests & Prizes — Monthly Heart-Healthy Challenges
+description: Join HeartConnect's monthly contests: heart-healthy recipe challenge, step challenge, story and video contests. Win prizes and get featured.
+nav: contests
+priority: 0.8
+-->
+<section class="section-dark" style="padding:70px 0">
+  <div class="container grid g2" style="align-items:center;gap:40px">
+    <div>
+      <div class="breadcrumb" style="color:#cbd5e1"><a href="index.html" style="color:#cbd5e1">Home</a> › Contests</div>
+      <span class="eyebrow" style="background:rgba(255,255,255,.12);color:#fff">Live now · <span data-contest-month>this month</span></span>
+      <h1 style="color:#fff;margin-top:14px">Heart-Healthy Recipe Challenge 🥗</h1>
+      <p>Create a tasty dish that's low in salt, rich in fibre and easy to cook at home. Top entries are featured on HeartConnect and win prizes.</p>
+      <div class="countdown" data-countdown=""></div>
+      <div style="margin-top:22px;display:flex;gap:10px;flex-wrap:wrap"><a class="btn btn-white" href="#enter">Enter the contest</a><a class="btn btn-outline-white" href="#rules">Read the rules</a></div>
+    </div>
+    <div class="card" id="prizes" style="background:rgba(255,255,255,.06);border-color:rgba(255,255,255,.15);color:#fff">
+      <h3 style="color:#fff">🏆 Prizes</h3>
+      <ul style="color:#e2e8f0"><li><strong>1st:</strong> Featured recipe + prize pack (e.g., smart BP monitor or fitness tracker)</li><li><strong>2nd:</strong> Featured recipe + healthy-kitchen gift card</li><li><strong>3rd:</strong> Featured recipe + heart-healthy cookbook</li><li><strong>All valid entries:</strong> Digital certificate of participation</li></ul>
+      <p style="font-size:.85rem">Exact prizes for each month are announced on this page and may be provided by sponsors. Prize values and availability may vary by country.</p>
+      <a class="btn btn-primary btn-sm" href="advertise.html#sponsor">Become a prize sponsor</a>
+    </div>
+  </div>
+</section>
+
+<section><div class="container">
+  <div class="section-head"><h2>Rotating monthly contests</h2><p>A new theme every month so there's always something to join.</p></div>
+  <div class="grid g4">
+    <div class="card reveal"><div class="ico">🥗</div><h3>Recipe Challenge</h3><p class="muted">Low-salt, high-fibre home cooking.</p></div>
+    <div class="card reveal"><div class="ico">👟</div><h3>Step Challenge</h3><p class="muted">Log your monthly steps; top movers win.</p></div>
+    <div class="card reveal"><div class="ico">✍️</div><h3>Heart Story Award</h3><p class="muted">Inspiring survivor and caregiver stories.</p></div>
+    <div class="card reveal"><div class="ico">🎬</div><h3>60-Second Video</h3><p class="muted">Teach one heart tip in a minute.</p></div>
+    <div class="card reveal"><div class="ico">🎨</div><h3>Art for Hearts</h3><p class="muted">Posters on CPR or warning signs.</p></div>
+    <div class="card reveal"><div class="ico">🧠</div><h3>Heart Quiz Cup</h3><p class="muted">Test your heart IQ against others.</p></div>
+    <div class="card reveal"><div class="ico">🏫</div><h3>School CPR Drive</h3><p class="muted">Schools that run awareness sessions.</p></div>
+    <div class="card reveal"><div class="ico">💼</div><h3>Workplace Wellness</h3><p class="muted">Teams with the best heart initiative.</p></div>
+  </div>
+</div></section>
+
+<section class="section-alt" id="enter"><div class="container lead-wrap">
+  <div id="rules">
+    <h2>Official rules (summary)</h2>
+    <ol class="prose">
+      <li>Free to enter. No purchase or donation necessary. Void where prohibited.</li>
+      <li>Open to individuals aged 18+ (or with parent/guardian consent where allowed by local law).</li>
+      <li>One entry per person per contest. Entries must be your own original work and must not infringe anyone's rights.</li>
+      <li>Entries close at 23:59 (UTC) on the last day of the month. Winners are chosen by a judging panel on originality, heart-health value and clarity.</li>
+      <li>Winners are notified by email within 14 days and must reply within 14 days to claim a prize, or an alternate winner may be chosen.</li>
+      <li>By entering you grant HeartConnect a non-exclusive licence to display your entry with credit. You keep your copyright.</li>
+      <li>Prizes are non-transferable; equivalent substitutes may be offered. Winners are responsible for any local taxes.</li>
+      <li>Contest content is not medical advice. Full terms are in our <a href="terms.html">Terms of Use</a>.</li>
+    </ol>
+  </div>
+  <div class="lead-box">
+    <h3>Submit your entry</h3>
+    <form class="hc-form form" data-subject="Contest entry" data-success="Entry received! Good luck — we'll email you if you're a winner.">
+      <input type="text" name="_honey" class="hp" tabindex="-1" autocomplete="off"><input type="hidden" name="form" value="contest-entry">
+      <div class="form-row"><div><label for="ce-name">Full name</label><input id="ce-name" name="name" required></div><div><label for="ce-email">Email</label><input id="ce-email" type="email" name="email" required></div></div>
+      <div class="form-row"><div><label for="ce-contest">Contest</label><select id="ce-contest" name="contest" required><option>Recipe Challenge</option><option>Step Challenge</option><option>Heart Story Award</option><option>60-Second Video</option><option>Art for Hearts</option><option>School CPR Drive</option><option>Workplace Wellness</option></select></div><div><label for="ce-country">Country</label><input id="ce-country" name="country" required></div></div>
+      <div><label for="ce-title">Entry title</label><input id="ce-title" name="entry_title" required></div>
+      <div><label for="ce-entry">Your entry (recipe, story, description)</label><textarea id="ce-entry" name="entry" required></textarea></div>
+      <div><label for="ce-link">Link to photo / video / file (Google Drive, YouTube, etc.)</label><input id="ce-link" type="url" name="link" placeholder="https://"></div>
+      <label class="check"><input type="checkbox" name="consent" value="yes" required> I am 18+ (or have guardian consent), this is my original work, and I accept the contest rules.</label>
+      <button class="btn btn-primary" type="submit">Submit entry</button><div class="form-msg" role="status"></div>
+    </form>
+  </div>
+</div></section>

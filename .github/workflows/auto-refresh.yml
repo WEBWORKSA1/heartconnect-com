@@ -1,0 +1,50 @@
+name: Auto-refresh content
+
+on:
+  schedule:
+    - cron: "17 2 * * *"   # every day 02:17 UTC (07:47 IST)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "build/**"
+      - "scripts/**"
+      - "data/video_sources.json"
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: auto-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install yt-dlp (video search)
+        run: pip install --quiet yt-dlp
+      - name: Fetch news & videos, rebuild site
+        run: python scripts/update_content.py
+      - name: Commit changes
+        run: |
+          git config user.name "heartconnect-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes"; echo "CHANGED=0" >> $GITHUB_ENV
+          else
+            git commit -m "chore: daily content refresh $(date -u +%F)"
+            git push
+            echo "CHANGED=1" >> $GITHUB_ENV
+          fi
+      - name: Trigger GitHub Pages rebuild
+        if: env.CHANGED == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST repos/${{ github.repository }}/pages/builds || echo "Pages build request skipped"

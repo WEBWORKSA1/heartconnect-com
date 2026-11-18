@@ -1,0 +1,5 @@
+{
+  "_help": "Optional. Add YouTube channel IDs (UC...) to pull their latest heart-related uploads, and 'pinned' videos to always show first. Example channel: {\"id\": \"UCxxxxxxxx\", \"topic\": \"conditions\"}. Example pinned: {\"id\": \"VIDEO_ID\", \"title\": \"Title\", \"channel\": \"Channel\", \"topic\": \"cpr\"}",
+  "channels": [],
+  "pinned": []
+}

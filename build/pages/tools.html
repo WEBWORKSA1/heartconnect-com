@@ -1,0 +1,104 @@
+<!--
+title: Free Heart Health Tools — BP Checker, BMI, Heart Rate Zones & BP Tracker
+description: Free heart-health calculators: blood pressure category checker, BMI with Asian cut-offs, target heart-rate zones, cholesterol ratio, waist-to-height ratio, Heart Habits Score and a private BP tracker.
+nav: tools
+tools: 1
+priority: 0.9
+-->
+<section class="page-hero"><div class="container">
+  <div class="breadcrumb"><a href="index.html">Home</a> › Tools</div>
+  <h1>Free Heart Health Tools</h1>
+  <p>Quick, private calculators that run entirely in your browser. Nothing you type here is sent anywhere. These tools are educational and do not diagnose any condition.</p>
+  <div class="pill-row" style="margin-top:16px">
+    <a class="chip" href="#bp">🩺 BP checker</a><a class="chip" href="#score">⭐ Heart Habits Score</a><a class="chip" href="#log">📈 BP tracker</a>
+    <a class="chip" href="#bmi">⚖️ BMI</a><a class="chip" href="#hr">🏃 Heart-rate zones</a><a class="chip" href="#chol">🧪 Cholesterol ratio</a><a class="chip" href="#whtr">📏 Waist-to-height</a>
+  </div>
+</div></section>
+
+<section style="padding-top:10px"><div class="container grid g2">
+  <div class="card tool" id="bp"><div class="ico">🩺</div><h2 style="font-size:1.4rem">Blood pressure checker</h2>
+    <p class="muted">See which adult blood-pressure category your reading falls into (ACC/AHA categories).</p>
+    <form id="bpForm" class="form"><div class="form-row">
+      <div><label for="bpSys">Systolic (top)</label><input id="bpSys" type="number" min="60" max="260" placeholder="e.g., 128" required></div>
+      <div><label for="bpDia">Diastolic (bottom)</label><input id="bpDia" type="number" min="30" max="160" placeholder="e.g., 82" required></div>
+    </div><button class="btn btn-primary" type="submit">Check reading</button></form>
+    <div class="result" id="bpOut" aria-live="polite"></div>
+  </div>
+
+  <div class="card tool" id="score"><div class="ico">⭐</div><h2 style="font-size:1.4rem">Heart Habits Score</h2>
+    <p class="muted">A 1-minute self-check across eight well-known heart-health factors. Choose the option closest to you.</p>
+    <form id="scoreForm" class="form">
+      <div class="form-row">
+        <div><label>Diet</label><select data-factor="Diet"><option value="100">Mostly whole foods, veg, fruit</option><option value="60">Mixed</option><option value="20">Mostly processed / fried / sugary</option></select></div>
+        <div><label>Physical activity</label><select data-factor="Activity"><option value="100">150+ min/week</option><option value="60">60–149 min/week</option><option value="20">Under 60 min/week</option></select></div>
+      </div>
+      <div class="form-row">
+        <div><label>Tobacco / nicotine</label><select data-factor="Nicotine"><option value="100">Never / quit 5+ yrs</option><option value="50">Quit under 5 yrs / second-hand smoke</option><option value="0">Currently use</option></select></div>
+        <div><label>Sleep</label><select data-factor="Sleep"><option value="100">7–9 hrs most nights</option><option value="60">6–7 or 9–10 hrs</option><option value="20">Under 6 hrs</option></select></div>
+      </div>
+      <div class="form-row">
+        <div><label>Weight / waist</label><select data-factor="Weight"><option value="100">Healthy range</option><option value="60">Slightly above</option><option value="20">Well above / not sure</option></select></div>
+        <div><label>Cholesterol</label><select data-factor="Cholesterol"><option value="100">Normal, checked recently</option><option value="50">Borderline / on treatment</option><option value="20">High or never checked</option></select></div>
+      </div>
+      <div class="form-row">
+        <div><label>Blood sugar</label><select data-factor="Blood sugar"><option value="100">Normal, checked recently</option><option value="50">Prediabetes / managed diabetes</option><option value="20">High or never checked</option></select></div>
+        <div><label>Blood pressure</label><select data-factor="Blood pressure"><option value="100">Under 120/80</option><option value="60">120–139 / 80–89</option><option value="20">140/90+ or never checked</option></select></div>
+      </div>
+      <button class="btn btn-primary" type="submit">Get my score</button>
+    </form>
+    <div class="result" id="scoreOut" aria-live="polite"></div>
+  </div>
+
+  <div class="card tool" id="log" style="grid-column:1/-1"><div class="ico">📈</div><h2 style="font-size:1.4rem">Blood pressure tracker</h2>
+    <p class="muted">Log readings, see your trend and average, and export a CSV for your doctor. Data is stored only on this device.</p>
+    <form id="logForm" class="form"><div class="form-row form-row4">
+      <div><label for="logSys">Systolic</label><input id="logSys" type="number" min="60" max="260" required></div>
+      <div><label for="logDia">Diastolic</label><input id="logDia" type="number" min="30" max="160" required></div>
+      <div><label for="logPulse">Pulse (optional)</label><input id="logPulse" type="number" min="30" max="220"></div>
+      <div style="align-self:end"><button class="btn btn-primary" type="submit">Add</button></div>
+    </div></form>
+    <p id="logAvg" style="margin-top:12px"></p>
+    <canvas id="logChart" style="width:100%;height:220px" aria-label="Blood pressure trend chart"></canvas>
+    <div style="overflow:auto"><table class="data"><thead><tr><th>Date</th><th>BP</th><th>Pulse</th><th>Category</th></tr></thead><tbody id="logBody"></tbody></table></div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap"><button class="btn btn-ghost btn-sm" id="logExport" type="button">Export CSV</button><button class="btn btn-ghost btn-sm" id="logClear" type="button">Clear log</button></div>
+  </div>
+
+  <div class="card tool" id="bmi"><div class="ico">⚖️</div><h2 style="font-size:1.4rem">BMI calculator</h2>
+    <form id="bmiForm" class="form"><div class="form-row">
+      <div><label for="bmiH">Height (cm)</label><input id="bmiH" type="number" min="100" max="230" required></div>
+      <div><label for="bmiW">Weight (kg)</label><input id="bmiW" type="number" min="25" max="300" step="0.1" required></div>
+    </div><label class="check"><input type="checkbox" id="bmiAsian"> Use Asian-population cut-offs (recommended for South &amp; East Asian adults)</label>
+    <button class="btn btn-primary" type="submit">Calculate</button></form>
+    <div class="result" id="bmiOut" aria-live="polite"></div>
+  </div>
+
+  <div class="card tool" id="hr"><div class="ico">🏃</div><h2 style="font-size:1.4rem">Target heart-rate zones</h2>
+    <form id="hrForm" class="form"><div class="form-row">
+      <div><label for="hrAge">Age</label><input id="hrAge" type="number" min="12" max="100" required></div>
+      <div><label for="hrRest">Resting pulse (optional)</label><input id="hrRest" type="number" min="35" max="120"></div>
+    </div><button class="btn btn-primary" type="submit">Show my zones</button></form>
+    <div class="result" id="hrOut" aria-live="polite"></div>
+  </div>
+
+  <div class="card tool" id="chol"><div class="ico">🧪</div><h2 style="font-size:1.4rem">Cholesterol ratio</h2>
+    <form id="cholForm" class="form"><div class="form-row">
+      <div><label for="cholTotal">Total cholesterol</label><input id="cholTotal" type="number" step="0.1" min="1" required></div>
+      <div><label for="cholHdl">HDL cholesterol</label><input id="cholHdl" type="number" step="0.1" min="0.1" required></div>
+    </div><div><label for="cholUnit">Units</label><select id="cholUnit"><option value="mg">mg/dL</option><option value="mmol">mmol/L</option></select></div>
+    <button class="btn btn-primary" type="submit">Calculate</button></form>
+    <div class="result" id="cholOut" aria-live="polite"></div>
+  </div>
+
+  <div class="card tool" id="whtr"><div class="ico">📏</div><h2 style="font-size:1.4rem">Waist-to-height ratio</h2>
+    <form id="whtrForm" class="form"><div class="form-row">
+      <div><label for="whtrWaist">Waist (cm or in)</label><input id="whtrWaist" type="number" step="0.1" min="10" required></div>
+      <div><label for="whtrHeight">Height (same unit)</label><input id="whtrHeight" type="number" step="0.1" min="40" required></div>
+    </div><button class="btn btn-primary" type="submit">Calculate</button></form>
+    <div class="result" id="whtrOut" aria-live="polite"></div>
+  </div>
+</div></section>
+{{AD_FOOTER}}
+<section class="section-alt"><div class="container">
+  <div class="callout"><strong>Important:</strong> These tools give general information only and cannot tell you whether you have heart disease. Readings vary throughout the day; one high reading does not mean you have hypertension, and a normal result doesn't rule out a problem. Discuss results with a qualified clinician.</div>
+  <div class="cta-band" style="margin-top:26px"><div><h2 style="color:#fff">Results worrying you?</h2><p>Get a free, no-obligation match with cardiologists and heart-care options near you.</p></div><div><a class="btn btn-white btn-block" href="find-care.html">Get free care match</a></div></div>
+</div></section>

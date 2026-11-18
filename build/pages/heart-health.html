@@ -1,0 +1,25 @@
+<!--
+title: Heart Health Library — Guides on Symptoms, Conditions, Tests & Prevention
+description: Browse plain-language heart-health guides: heart attack warning signs, blood pressure, cholesterol, AFib, heart failure, diet, exercise, CPR and more.
+nav: library
+priority: 0.9
+-->
+<section class="page-hero"><div class="container">
+  <div class="breadcrumb"><a href="index.html">Home</a> › Heart Health Library</div>
+  <h1>Heart Health Library</h1>
+  <p>Evidence-based, plain-language guides written to help you understand symptoms, tests, conditions and everyday prevention. Search or filter by topic.</p>
+  <div class="search" style="margin-top:18px"><label for="libSearch" class="sr">Search guides</label><input id="libSearch" type="search" placeholder="Search e.g. blood pressure, AFib, diet…"></div>
+  <div class="chips" id="libFilter" style="margin-top:16px">
+    <button class="chip active" data-cat="all">All</button><button class="chip" data-cat="emergency">Emergencies</button>
+    <button class="chip" data-cat="conditions">Conditions</button><button class="chip" data-cat="prevention">Prevention</button>
+    <button class="chip" data-cat="nutrition">Nutrition</button><button class="chip" data-cat="living">Living Well</button><button class="chip" data-cat="care">Care &amp; Tests</button>
+  </div>
+</div></section>
+<section style="padding-top:20px"><div class="container"><div class="grid g3">{{LIBRARY}}</div></div></section>
+{{AD_FOOTER}}
+<section class="section-alt"><div class="container">
+  <div class="cta-band"><div><h2 style="color:#fff">Have a question about your own heart?</h2><p>Our free Heart Care Concierge helps you find the right specialist, a second opinion or treatment options.</p></div><div><a class="btn btn-white btn-block" href="find-care.html">Get free care match</a></div></div>
+</div></section>
+<script>
+(function(){var p=new URLSearchParams(location.search).get('q');if(p){var i=document.getElementById('libSearch');i.value=p;setTimeout(function(){i.dispatchEvent(new Event('input'))},50);}})();
+</script>
