@@ -1,101 +1,108 @@
 {
- "updated": "2026-11-18T14:18:51Z",
+ "updated": "2026-11-19T10:22:33Z",
  "items": [
   {
    "id": "6eRwgM2Pa4o",
    "title": "How to Perform Hands-Only CPR",
-   "channel": "American Red Cross",
+   "channel": "",
+   "topic": "cpr",
+   "date": ""
+  },
+  {
+   "id": "LPUoPwbRvL8",
+   "title": "Learn Hands-Only CPR, the two steps to save a life",
+   "channel": "",
    "topic": "cpr",
    "date": ""
   },
   {
    "id": "V1IdU2-e4bs",
    "title": "Hands-Only CPR",
-   "channel": "ProCPR",
+   "channel": "",
    "topic": "cpr",
    "date": ""
   },
   {
    "id": "jHaicno95sk",
    "title": "Learn how to perform \"Hands Only CPR\"",
-   "channel": "LA Health Services",
+   "channel": "",
    "topic": "cpr",
    "date": ""
   },
   {
    "id": "jVMZtRZToCI",
    "title": "How to do hands-only CPR (cardiopulmonary resuscitation)",
-   "channel": "The Ottawa Hospital",
+   "channel": "",
    "topic": "cpr",
    "date": ""
   },
   {
-   "id": "ZcIcgalJcpw",
-   "title": "Lifesaver CPR | Hands-Only CPR for Bystanders",
-   "channel": "SCCAD Paramedics & The Patient Playback Podcast",
+   "id": "2n3ahmJzH_E",
+   "title": "How to Perform Hands-Only CPR",
+   "channel": "",
    "topic": "cpr",
    "date": ""
   },
   {
    "id": "5tx_8LHgxVw",
    "title": "New Hands-Only CPR Instructional Video",
-   "channel": "American Heart Association",
+   "channel": "",
    "topic": "cpr",
    "date": ""
   },
   {
-   "id": "hblmFtbyYKQ",
-   "title": "Learn Hands-Only CPR in 90 seconds",
-   "channel": "American Heart Association",
+   "id": "qCAFx-ltco0",
+   "title": "Learn Hands-Only CPR",
+   "channel": "",
    "topic": "cpr",
    "date": ""
   },
   {
    "id": "xmi9qghwQEY",
    "title": "Lower Blood Pressure NATURALLY: Doctor Explains",
-   "channel": "Violin MD",
-   "topic": "bp",
-   "date": ""
-  },
-  {
-   "id": "cYGvBhla70U",
-   "title": "High Blood Pressure Explained: Causes, Dangers, and How to Lower High Blood Pressure",
-   "channel": "Jeremy London, MD",
+   "channel": "",
    "topic": "bp",
    "date": ""
   },
   {
    "id": "50BW8b9DNaQ",
    "title": "How To Lower Your Blood Pressure (Cardiologist Explains)",
-   "channel": "Talking With Docs",
+   "channel": "",
    "topic": "bp",
    "date": ""
   },
   {
-   "id": "Rdzom2OGpqU",
-   "title": "These Supplements Lower Blood Pressure (Doctor Explains)",
-   "channel": "This Is Not Covered - Dr. Ashley Froese",
-   "topic": "bp",
-   "date": ""
-  },
-  {
-   "id": "LwOy5IvqjXQ",
-   "title": "Why Healthy People Still Have High Blood Pressure (Doctor Explains)",
-   "channel": "Dr. Mitch Rice",
+   "id": "cYGvBhla70U",
+   "title": "High Blood Pressure Explained: Causes, Dangers, and How to Lower High Blood Pressure",
+   "channel": "",
    "topic": "bp",
    "date": ""
   },
   {
    "id": "L-UgaLVD6h4",
    "title": "The REAL Cause of High Blood Pressure (and How to Fix It)",
-   "channel": "Leonid Kim MD",
+   "channel": "",
    "topic": "bp",
    "date": ""
   },
   {
-   "id": "JueWKSjtoSE",
-   "title": "Cardiologist explains natural ways to lower blood pressure",
-   "channel": "The Heart Doctor",
+   "id": "Rdzom2OGpqU",
+   "title": "These Supplements Lower Blood Pressure (Doctor Explains)",
+   "channel": "",
+   "topic": "bp",
+   "date": ""
+  },
+  {
+   "id": "YdCXD2OasKg",
+   "title": "The CORRECT way to treat high blood pressure",
+   "channel": "",
+   "topic": "bp",
+   "date": ""
+  },
+  {
+   "id": "UZ8-Ixuh0bk",
+   "title": "7 Truths To Lower Blood Pressure With Breathing Exercises (Holistic Doctor Explains) // Dr Ekberg",
+   "channel": "",
    "topic": "bp",
    "date": ""
   },
@@ -114,9 +121,9 @@
    "date": ""
   },
   {
-   "id": "KeJ45iAoxf4",
-   "title": "What Foods Make AFib WORSE? A Cardiologist Explains!",
-   "channel": "Healthline",
+   "id": "9bA_Bgs7kD0",
+   "title": "The TOP FOODS to Clean Arteries & PREVENT HEART DISEASE! I Dr. William Li",
+   "channel": "Dr. William Li",
    "topic": "diet",
    "date": ""
   },
@@ -135,9 +142,9 @@
    "date": ""
   },
   {
-   "id": "hqPkwTa93pc",
-   "title": "Cardiologist explains importance of lifestyle choices when monitoring heart health",
-   "channel": "WKBN27",
+   "id": "KeJ45iAoxf4",
+   "title": "What Foods Make AFib WORSE? A Cardiologist Explains!",
+   "channel": "Healthline",
    "topic": "diet",
    "date": ""
   },
@@ -163,23 +170,9 @@
    "date": ""
   },
   {
-   "id": "aiB9wQY1GkQ",
-   "title": "10-Minute Heart Health Workout | Low-Impact Cardio Routine",
-   "channel": "Caroline Jordan",
-   "topic": "exercise",
-   "date": ""
-  },
-  {
    "id": "U0ih39EjTSs",
    "title": "Best Workout to Unclog Arteries (HIIT vs regular cardio)",
    "channel": "Nutrition Made Simple!",
-   "topic": "exercise",
-   "date": ""
-  },
-  {
-   "id": "S9LZMB-P_Ds",
-   "title": "\"This Is the Optimal Exercise Routine\" - Sports Cardiologist",
-   "channel": "FoundMyFitness Clips",
    "topic": "exercise",
    "date": ""
   },
@@ -191,9 +184,23 @@
    "date": ""
   },
   {
-   "id": "3_PYnWVoUzM",
-   "title": "What happens during a heart attack? - Krishna Sudhir",
-   "channel": "TED-Ed",
+   "id": "S9LZMB-P_Ds",
+   "title": "\"This Is the Optimal Exercise Routine\" - Sports Cardiologist",
+   "channel": "FoundMyFitness Clips",
+   "topic": "exercise",
+   "date": ""
+  },
+  {
+   "id": "aiB9wQY1GkQ",
+   "title": "10-Minute Heart Health Workout | Low-Impact Cardio Routine",
+   "channel": "Caroline Jordan",
+   "topic": "exercise",
+   "date": ""
+  },
+  {
+   "id": "qJq5hA4pnOk",
+   "title": "Understanding Cardiovascular Disease: Visual Explanation for Students",
+   "channel": "Zero To Finals",
    "topic": "conditions",
    "date": ""
   },
@@ -212,9 +219,9 @@
    "date": ""
   },
   {
-   "id": "jP0qT6GpBVY",
-   "title": "What Causes Heart Attack? | How to Keep Your Heart Healthy? | Heart Attack Signs and Symptoms",
-   "channel": "Peekaboo Kidz",
+   "id": "3_PYnWVoUzM",
+   "title": "What happens during a heart attack? - Krishna Sudhir",
+   "channel": "TED-Ed",
    "topic": "conditions",
    "date": ""
   },
@@ -226,16 +233,16 @@
    "date": ""
   },
   {
-   "id": "qJq5hA4pnOk",
-   "title": "Understanding Cardiovascular Disease: Visual Explanation for Students",
-   "channel": "Zero To Finals",
+   "id": "flJsXOMhuK0",
+   "title": "What is Coronary Artery Disease - Mechanism of Disease",
+   "channel": "Thrombosis Adviser",
    "topic": "conditions",
    "date": ""
   },
   {
-   "id": "y6QJceOAVY0",
-   "title": "Coronary heart disease, clogged arteries and atherosclerosis",
-   "channel": "British Heart Foundation",
+   "id": "jP0qT6GpBVY",
+   "title": "What Causes Heart Attack? | How to Keep Your Heart Healthy? | Heart Attack Signs and Symptoms",
+   "channel": "Peekaboo Kidz",
    "topic": "conditions",
    "date": ""
   },
@@ -261,9 +268,9 @@
    "date": ""
   },
   {
-   "id": "rYosf6HU8_A",
-   "title": "A Heart Attack Survivor's story",
-   "channel": "TMJ4 News",
+   "id": "BCJ1TKhWCJc",
+   "title": "Heart attack survivor, Ceirra Zeager, shares her story of survival and recovery",
+   "channel": "American Heart Association",
    "topic": "stories",
    "date": ""
   },
@@ -275,16 +282,9 @@
    "date": ""
   },
   {
-   "id": "DzyR_wDlKjw",
-   "title": "Claudia's Story: A Heart Attack Survivor",
-   "channel": "RocheDiagnosticsUSA",
-   "topic": "stories",
-   "date": ""
-  },
-  {
-   "id": "BCJ1TKhWCJc",
-   "title": "Heart attack survivor, Ceirra Zeager, shares her story of survival and recovery",
-   "channel": "American Heart Association",
+   "id": "rYosf6HU8_A",
+   "title": "A Heart Attack Survivor's story",
+   "channel": "TMJ4 News",
    "topic": "stories",
    "date": ""
   },
@@ -296,9 +296,16 @@
    "date": ""
   },
   {
-   "id": "ahknZzoje0I",
-   "title": "Young Heart Attack Survivor: \u2018Don\u2019t Ignore the Warning Signs\u2019",
-   "channel": "UConn Health",
+   "id": "DzyR_wDlKjw",
+   "title": "Claudia's Story: A Heart Attack Survivor",
+   "channel": "RocheDiagnosticsUSA",
+   "topic": "stories",
+   "date": ""
+  },
+  {
+   "id": "6I8hMnztKr4",
+   "title": "Heart Attack: One Woman's Survival Story",
+   "channel": "Cardiovascular Institute of Northwest Florida",
    "topic": "stories",
    "date": ""
   }
