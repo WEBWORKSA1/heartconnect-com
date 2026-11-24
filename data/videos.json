@@ -1,17 +1,10 @@
 {
- "updated": "2026-11-23T10:48:05Z",
+ "updated": "2026-11-24T12:31:36Z",
  "items": [
   {
    "id": "6eRwgM2Pa4o",
    "title": "How to Perform Hands-Only CPR",
    "channel": "American Red Cross",
-   "topic": "cpr",
-   "date": ""
-  },
-  {
-   "id": "M4ACYp75mjU",
-   "title": "Hands-Only CPR Instructional Video",
-   "channel": "American Heart Association",
    "topic": "cpr",
    "date": ""
   },
@@ -23,8 +16,8 @@
    "date": ""
   },
   {
-   "id": "V1IdU2-e4bs",
-   "title": "Hands-Only CPR",
+   "id": "cbP6yWzdu0w",
+   "title": "Hands-Only CPR Practice",
    "channel": "ProCPR",
    "topic": "cpr",
    "date": ""
@@ -51,9 +44,9 @@
    "date": ""
   },
   {
-   "id": "ZcIcgalJcpw",
-   "title": "Lifesaver CPR | Hands-Only CPR for Bystanders",
-   "channel": "SCCAD Paramedics & The Patient Playback Podcast",
+   "id": "2J-oSj5IkEY",
+   "title": "Heckling Fan Hands-Only CPR video",
+   "channel": "handsonlycpr",
    "topic": "cpr",
    "date": ""
   },
@@ -79,6 +72,13 @@
    "date": ""
   },
   {
+   "id": "Rdzom2OGpqU",
+   "title": "These Supplements Lower Blood Pressure (Doctor Explains)",
+   "channel": "This Is Not Covered - Dr. Ashley Froese",
+   "topic": "bp",
+   "date": ""
+  },
+  {
    "id": "LwOy5IvqjXQ",
    "title": "Why Healthy People Still Have High Blood Pressure (Doctor Explains)",
    "channel": "Dr. Mitch Rice",
@@ -93,16 +93,9 @@
    "date": ""
   },
   {
-   "id": "nGtzJ9a3bk8",
-   "title": "How High Is TOO HIGH for Blood Pressure After 65 - Cardiologist Reveals The REAL Danger Zone",
-   "channel": "Dr. William Parker Senior Health",
-   "topic": "bp",
-   "date": ""
-  },
-  {
-   "id": "JueWKSjtoSE",
-   "title": "Cardiologist explains natural ways to lower blood pressure",
-   "channel": "The Heart Doctor",
+   "id": "yINMyhbFTC4",
+   "title": "What is Hypertension? High Blood Pressure explained for children - Ask Dr.Smarty",
+   "channel": "DrSmarty",
    "topic": "bp",
    "date": ""
   },
@@ -128,13 +121,6 @@
    "date": ""
   },
   {
-   "id": "1yu6ljOfGY8",
-   "title": "Cardiologist explains new cholesterol guidance | Heart health",
-   "channel": "WCNC",
-   "topic": "diet",
-   "date": ""
-  },
-  {
    "id": "5Kt_Ob8Pwf4",
    "title": "SWLA cardiologist explains ways to keep your heart healthy",
    "channel": "KPLC 7 News",
@@ -142,24 +128,24 @@
    "date": ""
   },
   {
-   "id": "hqPkwTa93pc",
-   "title": "Cardiologist explains importance of lifestyle choices when monitoring heart health",
-   "channel": "WKBN27",
+   "id": "1yu6ljOfGY8",
+   "title": "Cardiologist explains new cholesterol guidance | Heart health",
+   "channel": "WCNC",
    "topic": "diet",
    "date": ""
   },
   {
-   "id": "05uNhTHQPXA",
-   "title": "Cardiologist Warns: These 5 \"Healthy\" Foods Are Clogging Your Arteries",
-   "channel": "Dr  Blake Senior",
+   "id": "kPu3vaGZ5fs",
+   "title": "Cardiologist Explains: 6 Foods That May Support a Healthy Heart",
+   "channel": "Dr. Rowan Mercer Health",
    "topic": "diet",
    "date": ""
   },
   {
-   "id": "FxcsiHZvklA",
-   "title": "Which exercise is best for your heart health?",
-   "channel": "Royal Alexandra Hospital Foundation",
-   "topic": "exercise",
+   "id": "Rpe-EPSZIJw",
+   "title": "3 \"Heart-Healthy\" Foods That Are Damaging Your Arteries (A Cardiologist Explains)",
+   "channel": "Heart Doc KD",
+   "topic": "diet",
    "date": ""
   },
   {
@@ -170,37 +156,51 @@
    "date": ""
   },
   {
-   "id": "Sr9rAnRDLf8",
-   "title": "Ask A Heart Surgeon: The Optimal Heart-Healthy Exercise Guide",
-   "channel": "Michael Richman MD, MMM, FACS",
+   "id": "Gu4E1Y2sTDQ",
+   "title": "59 Year Old Bodybuilder Visits Cardiologist",
+   "channel": "Rob Friss",
    "topic": "exercise",
    "date": ""
   },
   {
-   "id": "aiB9wQY1GkQ",
-   "title": "10-Minute Heart Health Workout | Low-Impact Cardio Routine",
-   "channel": "Caroline Jordan",
+   "id": "z7PGuInGMZ4",
+   "title": "Best exercises for your heart",
+   "channel": "CNN",
    "topic": "exercise",
    "date": ""
   },
   {
-   "id": "S9LZMB-P_Ds",
-   "title": "\"This Is the Optimal Exercise Routine\" - Sports Cardiologist",
-   "channel": "FoundMyFitness Clips",
+   "id": "FxcsiHZvklA",
+   "title": "Which exercise is best for your heart health?",
+   "channel": "Royal Alexandra Hospital Foundation",
    "topic": "exercise",
    "date": ""
   },
   {
-   "id": "olg90Dq9ay8",
-   "title": "How hard to train? A Cardiologist on heart health for older athletes",
-   "channel": "Always Another Adventure",
+   "id": "oDTYl7lzqjg",
+   "title": "Best Exercise For Your Heart",
+   "channel": "NDTV",
    "topic": "exercise",
    "date": ""
   },
   {
-   "id": "ZYbGyFCb-rU",
-   "title": "Cardiologist Shares How He Keep His Heart Healthy. Dr. Michael Heffernan",
-   "channel": "Talking With Docs",
+   "id": "NMkGNxLPDjk",
+   "title": "5 Best Exercises to Lower Risk of Heart Attacks| Cardiologist Explains Heart-Saving Workouts",
+   "channel": "Dr. Aliasgar Bahrainwala",
+   "topic": "exercise",
+   "date": ""
+  },
+  {
+   "id": "TjzwohzLJgA",
+   "title": "How to improve your heart and lung functioning with these simple exercises ?",
+   "channel": "Noble Health City",
+   "topic": "exercise",
+   "date": ""
+  },
+  {
+   "id": "uiH3BMYHVBA",
+   "title": "The Power of Exercise for Heart Health | Preventive Cardiology",
+   "channel": "UT Southwestern Medical Center",
    "topic": "exercise",
    "date": ""
   },
@@ -212,9 +212,9 @@
    "date": ""
   },
   {
-   "id": "GnpLm9fzYxU",
-   "title": "3D Medical Animation - Congestive Heart Failure",
-   "channel": "BioDigital, Inc.",
+   "id": "KPKLq-LQjbc",
+   "title": "Cardiac Arrest vs. Heart Attack vs. Heart Failure",
+   "channel": "Health Decide ",
    "topic": "conditions",
    "date": ""
   },
@@ -226,9 +226,9 @@
    "date": ""
   },
   {
-   "id": "flJsXOMhuK0",
-   "title": "What is Coronary Artery Disease - Mechanism of Disease",
-   "channel": "Thrombosis Adviser",
+   "id": "jP0qT6GpBVY",
+   "title": "What Causes Heart Attack? | How to Keep Your Heart Healthy? | Heart Attack Signs and Symptoms",
+   "channel": "Peekaboo Kidz",
    "topic": "conditions",
    "date": ""
   },
@@ -240,9 +240,9 @@
    "date": ""
   },
   {
-   "id": "jP0qT6GpBVY",
-   "title": "What Causes Heart Attack? | How to Keep Your Heart Healthy? | Heart Attack Signs and Symptoms",
-   "channel": "Peekaboo Kidz",
+   "id": "GnpLm9fzYxU",
+   "title": "3D Medical Animation - Congestive Heart Failure",
+   "channel": "BioDigital, Inc.",
    "topic": "conditions",
    "date": ""
   },
@@ -254,9 +254,9 @@
    "date": ""
   },
   {
-   "id": "y6QJceOAVY0",
-   "title": "Coronary heart disease, clogged arteries and atherosclerosis",
-   "channel": "British Heart Foundation",
+   "id": "mhYeO2fwSps",
+   "title": "Heart Failure",
+   "channel": "Nucleus Medical Media",
    "topic": "conditions",
    "date": ""
   },
@@ -289,13 +289,6 @@
    "date": ""
   },
   {
-   "id": "qvaVfPEIhug",
-   "title": "My Heart Attack Story",
-   "channel": "Jeremy London, MD",
-   "topic": "stories",
-   "date": ""
-  },
-  {
    "id": "eL02pMXGYYI",
    "title": "Heart attack survivor, Dina Pinelli, shares her story of survival and recovery",
    "channel": "American Heart Association",
@@ -303,16 +296,23 @@
    "date": ""
   },
   {
-   "id": "mStp8hzh8B8",
-   "title": "Marc Koller | A Heart Attack Survivor's Story",
-   "channel": "Pulsara",
+   "id": "q4CMlSxO-RY",
+   "title": "Juanita's Story: Heart Attack Survivor",
+   "channel": "BaptistHealthSA",
    "topic": "stories",
    "date": ""
   },
   {
-   "id": "DzyR_wDlKjw",
-   "title": "Claudia's Story: A Heart Attack Survivor",
-   "channel": "RocheDiagnosticsUSA",
+   "id": "Q2pVZpdvCY0",
+   "title": "Recognizing a Heart Attack: Kim's Story",
+   "channel": "Main Line Health",
+   "topic": "stories",
+   "date": ""
+  },
+  {
+   "id": "mStp8hzh8B8",
+   "title": "Marc Koller | A Heart Attack Survivor's Story",
+   "channel": "Pulsara",
    "topic": "stories",
    "date": ""
   }
