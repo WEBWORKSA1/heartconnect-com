@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T12:31:36Z",
+ "updated": "2026-11-25T11:19:46Z",
  "items": [
   {
    "id": "6eRwgM2Pa4o",
@@ -9,16 +9,16 @@
    "date": ""
   },
   {
-   "id": "LPUoPwbRvL8",
-   "title": "Learn Hands-Only CPR, the two steps to save a life",
+   "id": "M4ACYp75mjU",
+   "title": "Hands-Only CPR Instructional Video",
    "channel": "American Heart Association",
    "topic": "cpr",
    "date": ""
   },
   {
-   "id": "cbP6yWzdu0w",
-   "title": "Hands-Only CPR Practice",
-   "channel": "ProCPR",
+   "id": "LPUoPwbRvL8",
+   "title": "Learn Hands-Only CPR, the two steps to save a life",
+   "channel": "American Heart Association",
    "topic": "cpr",
    "date": ""
   },
@@ -44,9 +44,16 @@
    "date": ""
   },
   {
-   "id": "2J-oSj5IkEY",
-   "title": "Heckling Fan Hands-Only CPR video",
-   "channel": "handsonlycpr",
+   "id": "A5PnI4I-vd8",
+   "title": "Hands Only CPR Video - Live Training Version",
+   "channel": "American Heart Association",
+   "topic": "cpr",
+   "date": ""
+  },
+  {
+   "id": "hblmFtbyYKQ",
+   "title": "Learn Hands-Only CPR in 90 seconds",
+   "channel": "American Heart Association",
    "topic": "cpr",
    "date": ""
   },
@@ -65,6 +72,13 @@
    "date": ""
   },
   {
+   "id": "LwOy5IvqjXQ",
+   "title": "Why Healthy People Still Have High Blood Pressure (Doctor Explains)",
+   "channel": "Dr. Mitch Rice",
+   "topic": "bp",
+   "date": ""
+  },
+  {
    "id": "L-UgaLVD6h4",
    "title": "The REAL Cause of High Blood Pressure (and How to Fix It)",
    "channel": "Leonid Kim MD",
@@ -72,15 +86,8 @@
    "date": ""
   },
   {
-   "id": "Rdzom2OGpqU",
-   "title": "These Supplements Lower Blood Pressure (Doctor Explains)",
-   "channel": "This Is Not Covered - Dr. Ashley Froese",
-   "topic": "bp",
-   "date": ""
-  },
-  {
-   "id": "LwOy5IvqjXQ",
-   "title": "Why Healthy People Still Have High Blood Pressure (Doctor Explains)",
+   "id": "bRB-K2jA5yA",
+   "title": "Doctor Reveals How To Lower Blood Pressure Naturally",
    "channel": "Dr. Mitch Rice",
    "topic": "bp",
    "date": ""
@@ -93,9 +100,9 @@
    "date": ""
   },
   {
-   "id": "yINMyhbFTC4",
-   "title": "What is Hypertension? High Blood Pressure explained for children - Ask Dr.Smarty",
-   "channel": "DrSmarty",
+   "id": "Rdzom2OGpqU",
+   "title": "These Supplements Lower Blood Pressure (Doctor Explains)",
+   "channel": "This Is Not Covered - Dr. Ashley Froese",
    "topic": "bp",
    "date": ""
   },
@@ -107,9 +114,9 @@
    "date": ""
   },
   {
-   "id": "9bA_Bgs7kD0",
-   "title": "The TOP FOODS to Clean Arteries & PREVENT HEART DISEASE! I Dr. William Li",
-   "channel": "Dr. William Li",
+   "id": "5Kt_Ob8Pwf4",
+   "title": "SWLA cardiologist explains ways to keep your heart healthy",
+   "channel": "KPLC 7 News",
    "topic": "diet",
    "date": ""
   },
@@ -121,16 +128,16 @@
    "date": ""
   },
   {
-   "id": "5Kt_Ob8Pwf4",
-   "title": "SWLA cardiologist explains ways to keep your heart healthy",
-   "channel": "KPLC 7 News",
+   "id": "1yu6ljOfGY8",
+   "title": "Cardiologist explains new cholesterol guidance | Heart health",
+   "channel": "WCNC",
    "topic": "diet",
    "date": ""
   },
   {
-   "id": "1yu6ljOfGY8",
-   "title": "Cardiologist explains new cholesterol guidance | Heart health",
-   "channel": "WCNC",
+   "id": "hqPkwTa93pc",
+   "title": "Cardiologist explains importance of lifestyle choices when monitoring heart health",
+   "channel": "WKBN27",
    "topic": "diet",
    "date": ""
   },
@@ -149,6 +156,41 @@
    "date": ""
   },
   {
+   "id": "50uyt6wfRvw",
+   "title": "Cardiologists Found a Workout That Makes Your Heart Younger By 20 Years",
+   "channel": "FoundMyFitness Clips",
+   "topic": "exercise",
+   "date": ""
+  },
+  {
+   "id": "Sr9rAnRDLf8",
+   "title": "Ask A Heart Surgeon: The Optimal Heart-Healthy Exercise Guide",
+   "channel": "Michael Richman MD, MMM, FACS",
+   "topic": "exercise",
+   "date": ""
+  },
+  {
+   "id": "A0ikBtGKsGE",
+   "title": "Cardiologist Warns: Millions Still Do This Every Morning Without Knowing the Risk!",
+   "channel": "Dr. Elias Senior Health ",
+   "topic": "exercise",
+   "date": ""
+  },
+  {
+   "id": "S9LZMB-P_Ds",
+   "title": "\"This Is the Optimal Exercise Routine\" - Sports Cardiologist",
+   "channel": "FoundMyFitness Clips",
+   "topic": "exercise",
+   "date": ""
+  },
+  {
+   "id": "olg90Dq9ay8",
+   "title": "How hard to train? A Cardiologist on heart health for older athletes",
+   "channel": "Always Another Adventure",
+   "topic": "exercise",
+   "date": ""
+  },
+  {
    "id": "jqZa8vxxPCk",
    "title": "The Best Exercises for My Heart | Cardiologist Explains",
    "channel": "Stephanie Saucier MD",
@@ -156,51 +198,16 @@
    "date": ""
   },
   {
-   "id": "Gu4E1Y2sTDQ",
-   "title": "59 Year Old Bodybuilder Visits Cardiologist",
-   "channel": "Rob Friss",
+   "id": "wsrxKvSiTmA",
+   "title": "Cardiologist Reveals: The Cardio That Actually Protects Your Heart",
+   "channel": "Dr. Mona Shah, MD | Preventive Cardiology",
    "topic": "exercise",
    "date": ""
   },
   {
-   "id": "z7PGuInGMZ4",
-   "title": "Best exercises for your heart",
-   "channel": "CNN",
-   "topic": "exercise",
-   "date": ""
-  },
-  {
-   "id": "FxcsiHZvklA",
-   "title": "Which exercise is best for your heart health?",
-   "channel": "Royal Alexandra Hospital Foundation",
-   "topic": "exercise",
-   "date": ""
-  },
-  {
-   "id": "oDTYl7lzqjg",
-   "title": "Best Exercise For Your Heart",
-   "channel": "NDTV",
-   "topic": "exercise",
-   "date": ""
-  },
-  {
-   "id": "NMkGNxLPDjk",
-   "title": "5 Best Exercises to Lower Risk of Heart Attacks| Cardiologist Explains Heart-Saving Workouts",
-   "channel": "Dr. Aliasgar Bahrainwala",
-   "topic": "exercise",
-   "date": ""
-  },
-  {
-   "id": "TjzwohzLJgA",
-   "title": "How to improve your heart and lung functioning with these simple exercises ?",
-   "channel": "Noble Health City",
-   "topic": "exercise",
-   "date": ""
-  },
-  {
-   "id": "uiH3BMYHVBA",
-   "title": "The Power of Exercise for Heart Health | Preventive Cardiology",
-   "channel": "UT Southwestern Medical Center",
+   "id": "H3nD5WnBhH4",
+   "title": "Cardiologist Warns: These 4 Morning Habits Are Triggering Heart Attacks After 60!",
+   "channel": "Dr. William Parker Senior Health",
    "topic": "exercise",
    "date": ""
   },
@@ -226,13 +233,6 @@
    "date": ""
   },
   {
-   "id": "jP0qT6GpBVY",
-   "title": "What Causes Heart Attack? | How to Keep Your Heart Healthy? | Heart Attack Signs and Symptoms",
-   "channel": "Peekaboo Kidz",
-   "topic": "conditions",
-   "date": ""
-  },
-  {
    "id": "qJq5hA4pnOk",
    "title": "Understanding Cardiovascular Disease: Visual Explanation for Students",
    "channel": "Zero To Finals",
@@ -247,6 +247,13 @@
    "date": ""
   },
   {
+   "id": "jP0qT6GpBVY",
+   "title": "What Causes Heart Attack? | How to Keep Your Heart Healthy? | Heart Attack Signs and Symptoms",
+   "channel": "Peekaboo Kidz",
+   "topic": "conditions",
+   "date": ""
+  },
+  {
    "id": "Lj7gM6eIDu0",
    "title": "Recognizing a heart attack | 3D Animation",
    "channel": "Dr. Paulien Moyaert",
@@ -254,9 +261,9 @@
    "date": ""
   },
   {
-   "id": "mhYeO2fwSps",
-   "title": "Heart Failure",
-   "channel": "Nucleus Medical Media",
+   "id": "flJsXOMhuK0",
+   "title": "What is Coronary Artery Disease - Mechanism of Disease",
+   "channel": "Thrombosis Adviser",
    "topic": "conditions",
    "date": ""
   },
@@ -275,6 +282,13 @@
    "date": ""
   },
   {
+   "id": "eL02pMXGYYI",
+   "title": "Heart attack survivor, Dina Pinelli, shares her story of survival and recovery",
+   "channel": "American Heart Association",
+   "topic": "stories",
+   "date": ""
+  },
+  {
    "id": "BCJ1TKhWCJc",
    "title": "Heart attack survivor, Ceirra Zeager, shares her story of survival and recovery",
    "channel": "American Heart Association",
@@ -282,15 +296,8 @@
    "date": ""
   },
   {
-   "id": "rYosf6HU8_A",
-   "title": "A Heart Attack Survivor's story",
-   "channel": "TMJ4 News",
-   "topic": "stories",
-   "date": ""
-  },
-  {
-   "id": "eL02pMXGYYI",
-   "title": "Heart attack survivor, Dina Pinelli, shares her story of survival and recovery",
+   "id": "0s8GFLrq9OI",
+   "title": "Heart attack survivor, Tricia Marciel, shares her story of survival and recovery",
    "channel": "American Heart Association",
    "topic": "stories",
    "date": ""
@@ -303,16 +310,16 @@
    "date": ""
   },
   {
-   "id": "Q2pVZpdvCY0",
-   "title": "Recognizing a Heart Attack: Kim's Story",
-   "channel": "Main Line Health",
+   "id": "rYosf6HU8_A",
+   "title": "A Heart Attack Survivor's story",
+   "channel": "TMJ4 News",
    "topic": "stories",
    "date": ""
   },
   {
-   "id": "mStp8hzh8B8",
-   "title": "Marc Koller | A Heart Attack Survivor's Story",
-   "channel": "Pulsara",
+   "id": "VqhPoqkAKdo",
+   "title": "Julie's Heart Story - Heart Attack Survivor Goes from Silent to National Spokeswoman",
+   "channel": "American Heart Association - Midwest Region",
    "topic": "stories",
    "date": ""
   }
