@@ -1,59 +1,52 @@
 {
- "updated": "2026-11-27T10:53:28Z",
+ "updated": "2026-11-28T10:28:43Z",
  "items": [
   {
    "id": "6eRwgM2Pa4o",
    "title": "How to Perform Hands-Only CPR",
-   "channel": "American Red Cross",
-   "topic": "cpr",
-   "date": ""
-  },
-  {
-   "id": "M4ACYp75mjU",
-   "title": "Hands-Only CPR Instructional Video",
-   "channel": "American Heart Association",
+   "channel": "",
    "topic": "cpr",
    "date": ""
   },
   {
    "id": "LPUoPwbRvL8",
    "title": "Learn Hands-Only CPR, the two steps to save a life",
-   "channel": "American Heart Association",
-   "topic": "cpr",
-   "date": ""
-  },
-  {
-   "id": "1YWy5UOwx3s",
-   "title": "Learn Hands-Only CPR",
-   "channel": "American Heart Association",
+   "channel": "",
    "topic": "cpr",
    "date": ""
   },
   {
    "id": "jHaicno95sk",
    "title": "Learn how to perform \"Hands Only CPR\"",
-   "channel": "LA Health Services",
+   "channel": "",
    "topic": "cpr",
    "date": ""
   },
   {
    "id": "5tx_8LHgxVw",
    "title": "New Hands-Only CPR Instructional Video",
-   "channel": "American Heart Association",
+   "channel": "",
    "topic": "cpr",
    "date": ""
   },
   {
    "id": "jVMZtRZToCI",
    "title": "How to do hands-only CPR (cardiopulmonary resuscitation)",
-   "channel": "The Ottawa Hospital",
+   "channel": "",
    "topic": "cpr",
    "date": ""
   },
   {
-   "id": "zSgmledxFe8",
-   "title": "Official 2012 Hands-Only CPR Instructional Video",
-   "channel": "handsonlycpr",
+   "id": "A5PnI4I-vd8",
+   "title": "Hands Only CPR Video - Live Training Version",
+   "channel": "",
+   "topic": "cpr",
+   "date": ""
+  },
+  {
+   "id": "hblmFtbyYKQ",
+   "title": "Learn Hands-Only CPR in 90 seconds",
+   "channel": "",
    "topic": "cpr",
    "date": ""
   },
@@ -61,20 +54,6 @@
    "id": "xmi9qghwQEY",
    "title": "Lower Blood Pressure NATURALLY: Doctor Explains",
    "channel": "Violin MD",
-   "topic": "bp",
-   "date": ""
-  },
-  {
-   "id": "cYGvBhla70U",
-   "title": "High Blood Pressure Explained: Causes, Dangers, and How to Lower High Blood Pressure",
-   "channel": "Jeremy London, MD",
-   "topic": "bp",
-   "date": ""
-  },
-  {
-   "id": "L-UgaLVD6h4",
-   "title": "The REAL Cause of High Blood Pressure (and How to Fix It)",
-   "channel": "Leonid Kim MD",
    "topic": "bp",
    "date": ""
   },
@@ -93,9 +72,16 @@
    "date": ""
   },
   {
-   "id": "JueWKSjtoSE",
-   "title": "Cardiologist explains natural ways to lower blood pressure",
-   "channel": "The Heart Doctor",
+   "id": "36L-DQ3pqcI",
+   "title": "HOW TO GET OFF HIGH BLOOD PRESSURE MEDICATIONS! A Doctor Explains",
+   "channel": "Dr. Jen Caudle",
+   "topic": "bp",
+   "date": ""
+  },
+  {
+   "id": "0FS5scuEQ-0",
+   "title": "How To Lower Blood Pressure Naturally: 5 Easy Ways! A Doctor Explains",
+   "channel": "Dr. Jen Caudle",
    "topic": "bp",
    "date": ""
   },
@@ -114,9 +100,16 @@
    "date": ""
   },
   {
-   "id": "9bA_Bgs7kD0",
-   "title": "The TOP FOODS to Clean Arteries & PREVENT HEART DISEASE! I Dr. William Li",
-   "channel": "Dr. William Li",
+   "id": "hqPkwTa93pc",
+   "title": "Cardiologist explains importance of lifestyle choices when monitoring heart health",
+   "channel": "WKBN27",
+   "topic": "diet",
+   "date": ""
+  },
+  {
+   "id": "1yu6ljOfGY8",
+   "title": "Cardiologist explains new cholesterol guidance | Heart health",
+   "channel": "WCNC",
    "topic": "diet",
    "date": ""
   },
@@ -128,6 +121,13 @@
    "date": ""
   },
   {
+   "id": "9bA_Bgs7kD0",
+   "title": "The TOP FOODS to Clean Arteries & PREVENT HEART DISEASE! I Dr. William Li",
+   "channel": "Dr. William Li",
+   "topic": "diet",
+   "date": ""
+  },
+  {
    "id": "5Kt_Ob8Pwf4",
    "title": "SWLA cardiologist explains ways to keep your heart healthy",
    "channel": "KPLC 7 News",
@@ -135,22 +135,8 @@
    "date": ""
   },
   {
-   "id": "Rpe-EPSZIJw",
-   "title": "3 \"Heart-Healthy\" Foods That Are Damaging Your Arteries (A Cardiologist Explains)",
-   "channel": "Heart Doc KD",
-   "topic": "diet",
-   "date": ""
-  },
-  {
-   "id": "hqPkwTa93pc",
-   "title": "Cardiologist explains importance of lifestyle choices when monitoring heart health",
-   "channel": "WKBN27",
-   "topic": "diet",
-   "date": ""
-  },
-  {
-   "id": "KeJ45iAoxf4",
-   "title": "What Foods Make AFib WORSE? A Cardiologist Explains!",
+   "id": "TDS7Lq2g3CE",
+   "title": "10 Heart-Healthy Foods You Need to Add to Your Diet Today",
    "channel": "Healthline",
    "topic": "diet",
    "date": ""
@@ -191,9 +177,16 @@
    "date": ""
   },
   {
-   "id": "SjwF0hi-68g",
-   "title": "Exercise and the Heart | |Dr Ameet Oswal- Interventional Cardiologist in Bangalore",
-   "channel": "Dr Ameet Oswal",
+   "id": "oDTYl7lzqjg",
+   "title": "Best Exercise For Your Heart",
+   "channel": "NDTV",
+   "topic": "exercise",
+   "date": ""
+  },
+  {
+   "id": "geIYLBWGqd0",
+   "title": "Daily Yoga for Heart - Exercises Part-1 | By Dr. Bimal Chhajer | Saaol",
+   "channel": "SAAOL Heart Center",
    "topic": "exercise",
    "date": ""
   },
@@ -205,65 +198,58 @@
    "date": ""
   },
   {
-   "id": "oDTYl7lzqjg",
-   "title": "Best Exercise For Your Heart",
-   "channel": "NDTV",
-   "topic": "exercise",
-   "date": ""
-  },
-  {
    "id": "3_PYnWVoUzM",
    "title": "What happens during a heart attack? - Krishna Sudhir",
-   "channel": "",
+   "channel": "TED-Ed",
    "topic": "conditions",
    "date": ""
   },
   {
-   "id": "qJq5hA4pnOk",
-   "title": "Understanding Cardiovascular Disease: Visual Explanation for Students",
-   "channel": "",
+   "id": "KPKLq-LQjbc",
+   "title": "Cardiac Arrest vs. Heart Attack vs. Heart Failure",
+   "channel": "Health Decide ",
    "topic": "conditions",
    "date": ""
   },
   {
    "id": "xBAvxnT0ZvI",
    "title": "What Happens During A Heart Attack? - What is Coronary Heart Disease?",
-   "channel": "",
+   "channel": "FreeMedEducation",
    "topic": "conditions",
    "date": ""
   },
   {
-   "id": "GnpLm9fzYxU",
-   "title": "3D Medical Animation - Congestive Heart Failure",
-   "channel": "",
+   "id": "qJq5hA4pnOk",
+   "title": "Understanding Cardiovascular Disease: Visual Explanation for Students",
+   "channel": "Zero To Finals",
    "topic": "conditions",
    "date": ""
   },
   {
    "id": "Lj7gM6eIDu0",
    "title": "Recognizing a heart attack | 3D Animation",
-   "channel": "",
+   "channel": "Dr. Paulien Moyaert",
    "topic": "conditions",
    "date": ""
   },
   {
    "id": "jP0qT6GpBVY",
    "title": "What Causes Heart Attack? | How to Keep Your Heart Healthy? | Heart Attack Signs and Symptoms",
-   "channel": "",
+   "channel": "Peekaboo Kidz",
    "topic": "conditions",
    "date": ""
   },
   {
-   "id": "flJsXOMhuK0",
-   "title": "What is Coronary Artery Disease - Mechanism of Disease",
-   "channel": "",
+   "id": "GnpLm9fzYxU",
+   "title": "3D Medical Animation - Congestive Heart Failure",
+   "channel": "BioDigital, Inc.",
    "topic": "conditions",
    "date": ""
   },
   {
    "id": "mhYeO2fwSps",
    "title": "Heart Failure",
-   "channel": "",
+   "channel": "Nucleus Medical Media",
    "topic": "conditions",
    "date": ""
   },
@@ -296,6 +282,20 @@
    "date": ""
   },
   {
+   "id": "KmvOxlfFO3U",
+   "title": "Michelle\u2019s Heart Attack Survivor Story",
+   "channel": "Intermountain Health",
+   "topic": "stories",
+   "date": ""
+  },
+  {
+   "id": "0s8GFLrq9OI",
+   "title": "Heart attack survivor, Tricia Marciel, shares her story of survival and recovery",
+   "channel": "American Heart Association",
+   "topic": "stories",
+   "date": ""
+  },
+  {
    "id": "rYosf6HU8_A",
    "title": "A Heart Attack Survivor's story",
    "channel": "TMJ4 News",
@@ -303,23 +303,9 @@
    "date": ""
   },
   {
-   "id": "mStp8hzh8B8",
-   "title": "Marc Koller | A Heart Attack Survivor's Story",
-   "channel": "Pulsara",
-   "topic": "stories",
-   "date": ""
-  },
-  {
-   "id": "VqhPoqkAKdo",
-   "title": "Julie's Heart Story - Heart Attack Survivor Goes from Silent to National Spokeswoman",
-   "channel": "American Heart Association - Midwest Region",
-   "topic": "stories",
-   "date": ""
-  },
-  {
-   "id": "DzyR_wDlKjw",
-   "title": "Claudia's Story: A Heart Attack Survivor",
-   "channel": "RocheDiagnosticsUSA",
+   "id": "6Mb1oBQT5i0",
+   "title": "Heart attack survivor shares her story",
+   "channel": "FOX 13 News Utah",
    "topic": "stories",
    "date": ""
   }
